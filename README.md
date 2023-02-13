@@ -25,5 +25,5 @@ Tampermonkey脚本 [tampermonkey.js](tampermonkey.js) [@Bubbleioa](https://githu
    ![证书配置失败](img/证书配置失败.png)
 3. 若正确提示 `Welcome to the Captcha Server! Post your captcha to /api`，说明服务器配置成功。
    ![证书配置成功](img/证书配置成功.png)
-4. 修改 [send_captcha.py L20](send_captcha.py#L20) 中的 `url` 变量为你的服务器地址，并在 Tampermonkey 中安装。
+4. 修改 [send_captcha.js L20](send_captcha.js#L20) 中的 `url` 变量为你的服务器地址，并在 Tampermonkey 中安装。
 5. 此时访问 [统一身份认证](https://authserver.nju.edu.cn/authserver/login) ，即可自动填充验证码。
