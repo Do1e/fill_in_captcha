@@ -4,7 +4,7 @@
 
 识别服务器代码 [server.py](server.py) [@Do1e](https://github.com/Do1e)
 
-Tampermonkey脚本 [tampermonkey.js](tampermonkey.js) [@Bubbleioa](https://github.com/Bubbleioa)
+Tampermonkey脚本 [send_captcha.js](send_captcha.js) [@Bubbleioa](https://github.com/Bubbleioa)
 
 ## 使用
 
