@@ -2,10 +2,9 @@
 // @name         南大统一身份认证自动填充验证码
 // @namespace    http://mirai.bubbleioa.top/
 // @version      1.0
-// @description  南大统一身份认证自动填充验证码，请在第20行填写验证码识别服务器地址（必须为https协议）
+// @description  南大统一身份认证自动填充验证码，请在第19行填写验证码识别服务器地址（必须为https协议）
 // @author       Bubbleioa
 // @match        https://authserver.nju.edu.cn/authserver/login*
-// @icon         http://www.do1e.cf/favicon.ico
 // @grant        none
 // @run-at       document-body
 // ==/UserScript==
